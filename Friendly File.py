@@ -12,7 +12,7 @@ subject = "girl"
 print("That's it! the " + subject + " could not " + a + " it!.")
 age = input("Enter the age you entered at first:")
 action = input("Enter an action:")
-print("Suddenly,a light bulb came in the " + age + " year old girl's head.")
+print("all of a sudden a light bulb came in the " + age + " year old girl's head.")
 print("I can " + action + " an persuasive essay for my parents to read since the girl is very bad at essays.")
 action = input("Enter the word KNOWS:")
 print("The girl also " + action + " that she needs to work harder than usual to accomplish the difficult goal.")
